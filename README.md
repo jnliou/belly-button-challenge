@@ -6,7 +6,7 @@
 The Belly Button Biodiversity Dashboard is an interactive web application that allows users to explore the microbes that colonize human navels. The dataset used in the dashboard catalogs operational taxonomic units (OTUs) present in human navels, with some being common in the majority of people and others being relatively rare. The dashboard provides visualizations in the form of horizontal bar charts, bubble chart, gauage meter, as well as demographic information for each selected individual.
 
 ##  Demo
-You can access the live demo of the Belly Button Biodiversity Dashboard here.
+You can access the live demo of the [Belly Button Biodiversity Dashboard here](https://jnliou.github.io/belly-button-challenge/Code/index.html).
 
 ## Features
 JavaScript code found: [app.js](Code/static/js/app.js)
