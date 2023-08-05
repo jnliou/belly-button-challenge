@@ -174,7 +174,7 @@ let layout = {
         l: 40, // Adjust the left margin (increase/decrease to spread out or compress tick labels)
         r: 20,  // Adjust the right margin
         b: 90, // Adjust the bottom margin
-        t: 25   // Adjust the top margin
+        t: 40 // Adjust the top margin
     },
     showlegend: false
 };
